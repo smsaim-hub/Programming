@@ -1,2 +1,2 @@
 # Programming
-It is my daily practice problems of code using C,C++ an Python.
+It is my daily practice problems of code using C,C++ and Python.
